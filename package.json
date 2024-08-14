@@ -1,0 +1,21 @@
+{
+  "name": "study-tracker",
+  "version": "1.0.0",
+  "description": "A simple study tracker to display current study status and cumulative study time.",
+  "main": "index.js",
+  "scripts": {
+    "build": "netlify build",
+    "dev": "netlify dev",
+    "deploy": "netlify deploy"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^15.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
