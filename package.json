@@ -2,7 +2,6 @@
   "name": "study-tracker",
   "version": "1.0.0",
   "description": "A simple study tracker to display current study status and cumulative study time.",
-  "main": "index.js",
   "scripts": {
     "build": "netlify build",
     "dev": "netlify dev",
